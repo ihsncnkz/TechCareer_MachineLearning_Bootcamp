@@ -172,7 +172,7 @@ best_score_grid_rfc = grid_rfc_search.best_score_
 
 print("Best prameter of RandomForestClassifier with gridseach function: ", best_parm_grid_rfc)
 print("Best score of RandomForestClassifier with gridsearch function: ",best_score_grid_rfc)
-
+print("---------------------------------")
 
 
 
